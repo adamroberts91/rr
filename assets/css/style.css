@@ -2,19 +2,36 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+body {
+    background-color: #d7d7d7;
+}
+
+#navbar {
+    background-color: #302c2c !important;
+}
+
+.navbar-nav a {
+    color: #c4c2c2 !important;
+}
+
+.dropdown-menu {
+    background-color: #302c2c !important;
+}
+
+.navbar-nav a:hover {
+    color: #ea0da4 !important;
+}
+
+.navbar-brand {
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
 #logo {
     width: 240px;
 }
 
-#top_bar {
-    background-color: #302c2c;
-    position: fixed;
-    height: 62px;
-    width: 100%;
-}
-
-#logo img {
-    width: 100%;
-    position: relative;
-
+#top_logo {
+    width: 240px;
+    height: auto;
 }

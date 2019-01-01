@@ -1,0 +1,20 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo {
+    width: 240px;
+}
+
+#top_bar {
+    background-color: #302c2c;
+    position: fixed;
+    height: 62px;
+    width: 100%;
+}
+
+#logo img {
+    width: 100%;
+    position: relative;
+
+}
